@@ -48,8 +48,8 @@ public class DigestContent implements Content {
 	private String toAsciiEncodedHexString(byte[] mac) {
 		StringBuilder builder = new StringBuilder();
 		for (byte b : mac) {
-			builder.append(String.format("%x", b));
-		}
+            builder.append(String.format("%02x", b));
+        }
 		builder.append("\r\n");
 		return builder.toString();
 	}
