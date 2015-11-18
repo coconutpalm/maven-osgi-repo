@@ -1,7 +1,7 @@
-/target/
+target
 bin
 .project
 .settings
 .classpath
 velocity.log
-/.DS_Store
+.DS_Store
