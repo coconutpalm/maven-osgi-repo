@@ -9,6 +9,8 @@ Also contains an Eclipse plugin that:
 
 The result is that Eclipse becomes its own local M2 repository for all installed plug-ins.
 
+See also: The README.md inside maven-repo-server.
+
 ## Notes
 
 * Originally exported from code.google.com/p/maven-osgi-repo
