@@ -2,4 +2,5 @@
 bin
 .project
 .settings
-.classpath
+/.classpath
+velocity.log
