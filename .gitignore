@@ -2,6 +2,6 @@
 bin
 .project
 .settings
-/.classpath
+.classpath
 velocity.log
 /.DS_Store
