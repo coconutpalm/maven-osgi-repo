@@ -3,7 +3,7 @@
 Contains an HTTP server that turns any P2 repo into a M2-compliant repo.
 
 Also contains an Eclipse plugin that:
-* Installs the server into a given workspace's configuration area
+* Installs the server into the current workspace's configuration area
 * Runs the server on Eclipse launch.
 * Terminates the server on Eclipse shutdown.
 
