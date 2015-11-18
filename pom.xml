@@ -5,7 +5,7 @@
 
 	<groupId>com.crsn.maven.utils</groupId>
 	<artifactId>osgi-repo</artifactId>
-	<version>0.2</version>
+	<version>0.3.0</version>
 
 	<dependencies>
 		<dependency>
