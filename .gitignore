@@ -4,3 +4,4 @@ bin
 .settings
 /.classpath
 velocity.log
+/.DS_Store
